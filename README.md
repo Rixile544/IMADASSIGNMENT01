@@ -5,7 +5,7 @@ I began by creating a new Android project in Android Studio with an Empty Activi
 
 2. Designing the User Interface (UI)
 
-I designed the UI in the activity_main.xml file using the Layout Editor
+I designed the UI in the activity_main.xml file using the Layout Editor:
 
 EditText: A text box was added for the user to input the time of day (e.g., “morning”, “afternoon”).
 
